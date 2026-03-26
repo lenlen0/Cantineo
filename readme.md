@@ -9,18 +9,6 @@ Application web de gestion de cantine scolaire, développée avec **Quasar (Vue 
 - Suivi des paiements
 - Interface d'administration
 
-## Installation
-
-```bash
-# Installer les dépendances
-pnpm install
-
-# Lancer en développement
-pnpm dev
-
-# Build de production
-pnpm build
-```
 
 > Requiert Node.js v20+ et pnpm v10+
 
