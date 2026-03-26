@@ -1,0 +1,17 @@
+Android SDK is missing cmdline-tools directory.
+
+Requirements check results for android:
+Java JDK: not installed 
+Failed to run "javac -version", make sure that you have a JDK version 8 installed.
+You can get it from the following location:
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Android SDK: installed true
+Android target: not installed 
+Command failed with exit code 1: avdmanager list target
+'avdmanager' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex�cutable ou un fichier de commandes.
+Gradle: not installed 
+Could not find an installed version of Gradle either in Android Studio,
+or on your system to install the gradle wrapper. Please include gradle 
+in your path, or install Android Studio
+Some of requirements check failed
