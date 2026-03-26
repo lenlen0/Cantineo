@@ -11,7 +11,3 @@ Application web de gestion de cantine scolaire, développée avec **Quasar (Vue 
 
 
 > Requiert Node.js v20+
-
-## Auteur
-
-**lenlen0** — nathancsta85@gmail.com
