@@ -1,6 +1,6 @@
 # Cantineo
 
-Application web de gestion de cantine scolaire, développée avec **Quasar (Vue 3)** et **SQLite**.
+Application mobile de gestion de cantine scolaire, développée avec **Quasar (Vue 3)** et **SQLite**.
 
 ## Fonctionnalités
 
